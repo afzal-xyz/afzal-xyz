@@ -1,8 +1,8 @@
-Founder @ Tranzia — Safety Decision Infrastructure
-Building Decision Receipts: verifiable, exportable evidence of risk consideration (not prediction).
-🔗 Tranzia: https://tranzia.com
-🔗 Receipt Spec: https://tranzia.com/developer/receipt-spec
-🔗 Receipt Verifier (OSS): https://github.com/afzal-xyz/tranzia-receipt-verifier
+- Founder @ Tranzia — Safety Decision Infrastructure
+- Building Decision Receipts: verifiable, exportable evidence of risk consideration (not prediction).
+- 🔗 Tranzia: https://tranzia.com
+- 🔗 Receipt Spec: https://tranzia.com/developer/receipt-spec
+- 🔗 Receipt Verifier (OSS): https://github.com/afzal-xyz/tranzia-receipt-verifier
 - 📫 How to reach me https://www.linkedin.com/in/afzalfarooqui/
 
 <!---
