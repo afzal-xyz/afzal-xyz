@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @afzal-xyz
-- 👀 I’m interested in projects related to ML/NLP.
-- 🌱 I’m currently learning ML/NLP using Python.
-- 💞️ I’m looking to collaborate on ML/NLP projects in Python.
+Founder @ Tranzia — Safety Decision Infrastructure
+Building Decision Receipts: verifiable, exportable evidence of risk consideration (not prediction).
+🔗 Tranzia: https://tranzia.com
+🔗 Receipt Spec: https://tranzia.com/developer/receipt-spec
+🔗 Receipt Verifier (OSS): https://github.com/afzal-xyz/tranzia-receipt-verifier
 - 📫 How to reach me https://www.linkedin.com/in/afzalfarooqui/
 
 <!---
